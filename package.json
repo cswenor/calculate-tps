@@ -1,0 +1,15 @@
+{
+  "name": "calculate-tps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculate-tps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algosdk": "^2.8.0",
+    "yargs": "^17.7.2"
+  }
+}
